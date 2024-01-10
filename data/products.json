@@ -32,7 +32,7 @@
     "delivery": "FREE delivery Tue, 16 Jan"
 },
 {
-        "imgUrl": "assets/images/microphone.png",
+        "imgUrl": "./assets/images/sofa.jpg",
         "title": "Sofa set",
         "description" : "High defined U shaped luxurious fabric sofa set",
         "star_ratings": 9.8,
