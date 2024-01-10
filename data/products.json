@@ -1,31 +1,31 @@
 [
     {
     "imgUrl": "./assets/images/study_table.jpg",
-    "title": "Smartsters",
+    "title": "Study Table",
     "description" : "Engineered Wooden Study Table | Safe & Child-Friendly",
     "star_ratings": 3.8,
-    "Price": "₹ 7,999",
+    "Price": "₹ 4,999",
     "delivery": "FREE delivery as soon as Wed, 24 Jan, 7 am - 3 pm"
 },
 {
-    "imgUrl": "./assets/images/Indiid Homes.jpg",
-    "title": "Indiid Homes",
-    "description" : "Patio SEating Chair and Table Set Garden Coffee Table",
+    "imgUrl": "./assets/images/bed.jpg",
+    "title": "Mobel Furniture Bed",
+    "description" : "Patio Bed Set Rosa Bedroom Package",
     "star_ratings": 3.8,
-    "Price": "₹ 8,699",
+    "Price": "₹ 15,6000",
     "delivery": "FREE delivery Tomorrow, 9 Jan"
 },
 { 
-    "imgUrl": "./assets/images/furniture-cafe.jpg",    
+    "imgUrl": "./assets/images/cafe.jpg",    
     "title": "Furniture Cafe",
     "description" : "Set top Box Stand shelves for Home Wall Mount Stylish",
     "star_ratings": 4.1,
-    "Price": "₹ 299",
+    "Price": "₹ 10,000",
     "delivery": "FREE delivery Wed, 10 Jan"
 },
 {
     "imgUrl": "./assets/images/anamino.jpg",
-    "title": "Anamino",
+    "title": "Single Leg Table",
     "description" : "Shoppee Accent for the Office, Bedroom, Balcony and Living Area, Indoor or Outdoor",
     "star_ratings": 5.3,
     "Price": "₹ 4,599",
@@ -36,11 +36,11 @@
         "title": "Sofa set",
         "description" : "High defined U shaped luxurious fabric sofa set",
         "star_ratings": 9.8,
-        "Price": "₹ 9,600",
+        "Price": "₹ 40,000",
         "delivery": "FREE delivery Wed, 18 Jan"
     },
     {
-        "imgUrl": "./assets/images/teepa.jpg",
+        "imgUrl": "./assets/images/coffee.jpg",
         "title": "Coffee Table",
         "description" : "Vintage low coffee table with tray | Grand Vintage",
         "star_ratings": 8.8,
