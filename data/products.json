@@ -9,7 +9,7 @@
 },
 {
     "imgUrl": "./assets/images/bed.jpg",
-    "title": "Mobel Furniture Bed",
+    "title": "Mobel Bed",
     "description" : "Patio Bed Set Rosa Bedroom Package",
     "star_ratings": 3.8,
     "Price": "₹ 15,6000",
@@ -32,7 +32,7 @@
     "delivery": "FREE delivery Tue, 16 Jan"
 },
 {
-        "imgUrl": "./assets/images/sofa.jpg",
+        "imgUrl": "assets/images/microphone.png",
         "title": "Sofa set",
         "description" : "High defined U shaped luxurious fabric sofa set",
         "star_ratings": 9.8,
