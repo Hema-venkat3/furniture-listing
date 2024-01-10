@@ -1,0 +1,50 @@
+[
+    {
+    "imgUrl": "./assets/images/study_table.jpg",
+    "title": "Smartsters",
+    "description" : "Engineered Wooden Study Table | Safe & Child-Friendly",
+    "star_ratings": 3.8,
+    "Price": "₹ 7,999",
+    "delivery": "FREE delivery as soon as Wed, 24 Jan, 7 am - 3 pm"
+},
+{
+    "imgUrl": "./assets/images/Indiid Homes.jpg",
+    "title": "Indiid Homes",
+    "description" : "Patio SEating Chair and Table Set Garden Coffee Table",
+    "star_ratings": 3.8,
+    "Price": "₹ 8,699",
+    "delivery": "FREE delivery Tomorrow, 9 Jan"
+},
+{ 
+    "imgUrl": "./assets/images/furniture-cafe.jpg",    
+    "title": "Furniture Cafe",
+    "description" : "Set top Box Stand shelves for Home Wall Mount Stylish",
+    "star_ratings": 4.1,
+    "Price": "₹ 299",
+    "delivery": "FREE delivery Wed, 10 Jan"
+},
+{
+    "imgUrl": "./assets/images/anamino.jpg",
+    "title": "Anamino",
+    "description" : "Shoppee Accent for the Office, Bedroom, Balcony and Living Area, Indoor or Outdoor",
+    "star_ratings": 5.3,
+    "Price": "₹ 4,599",
+    "delivery": "FREE delivery Tue, 16 Jan"
+},
+{
+        "imgUrl": "./assets/images/sofa.jpg",
+        "title": "Sofa set",
+        "description" : "High defined U shaped luxurious fabric sofa set",
+        "star_ratings": 9.8,
+        "Price": "₹ 9,600",
+        "delivery": "FREE delivery Wed, 18 Jan"
+    },
+    {
+        "imgUrl": "./assets/images/teepa.jpg",
+        "title": "Coffee Table",
+        "description" : "Vintage low coffee table with tray | Grand Vintage",
+        "star_ratings": 8.8,
+        "Price": "₹ 4,000",
+        "delivery": "FREE delivery Tomorrow, 20 Jan"
+    }
+]
