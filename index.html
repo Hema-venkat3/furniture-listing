@@ -1,49 +1,90 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
     <link rel="icon" type="image/svg+xml" href="/vite.svg" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-    <link rel="icon" href="./assets/images/favicon.jpg">
+    <link rel="icon" href="./assets/images/logo-1.jpg" />
     <title>Furniture Listing App</title>
 
     <!-- main.css -->
-    <link rel="stylesheet" href="./assets/css/main.css">
+    <link rel="stylesheet" href="./assets/css/main.css" />
 
+    <!-- font -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap"
+      rel="stylesheet"
+    />
   </head>
   <body>
-          <!-- Search bar -->
-      
-         <div class="flex justify-between items-center p-3 bg-[rgb(59,130,246)]">
-      
-          <!-- logo icon -->
-          <img src="./assets/images/logo.png" alt="logo" width="50" height="50">
-           <input type="search" placeholder="search furnitures" class="w-80 rounded text-lg text-center p-2 outline-none cursor-pointer">
-          <div class="flex gap-5">
-          <!-- camera icon -->
-           <img src="./assets/images/lens.png" alt="search lens" width="30" height="30">
-           <!-- microphone icon -->
-           <img src="./assets/images/microphone.png" alt="ask here" width="30" height="30">
-           <!-- github icon -->
-           <a href="https://github.com/Hema-venkat3/furniture-listing">
-            <img src="./assets/images/icons8-github-30.png" alt="Github" width="35" height="35"></a>
-          </div>
-         </div>
+    <!-- Search bar -->
 
-      <!-- address section -->
-      
-          <div class="flex gap-3 justify-center items-center bg-[rgb(251,146,60)] p-3">
-              <!-- location icon -->
-          <img src="./assets/images/location (3).png" alt="location" width="30" height="30" > 
+    <div class="flex px-6 justify-between items-center p-3 bg-[#1995AD]">
+      <!-- logo icon -->
+      <img
+        src="./assets/images/in.jpg"
+        alt="logo"
+        width="50"
+        height="50"
+        class="rounded"
+      />
+      <div class="flex items-center">
+        <input
+          type="search"
+          placeholder="search furnitures"
+          class="w-80 rounded text-lg text-center p-2 outline-none cursor-pointer absolute"
+        />
+        <img
+          src="./assets/images/icons8-search-30.png"
+          alt="search"
+          width="35"
+          height="35"
+          class="relative -right-64 m-5 text-gray-700"
+        />
+      </div>
+      <div class="flex gap-5">
+        <!-- camera icon -->
+        <img
+          src="./assets/images/center_focus_strong_FILL0_wght400_GRAD0_opsz24.svg"
+          alt="search lens"
+          width="30"
+          height="30"
+        />
+        <!-- microphone icon -->
+        <img
+          src="./assets/images/mic_FILL0_wght400_GRAD0_opsz24.svg"
+          alt="ask here"
+          width="30"
+          height="30"
+        />
+        <!-- github icon -->
+        <a href="https://github.com/Hema-venkat3/furniture-listing">
+          <img
+            src="./assets/images/icons8-github-50.png"
+            alt="Github"
+            width="35"
+            height="35"
+            class="from-neutral-950 transform hover:scale-110 transition"
+        /></a>
+      </div>
+    </div>
+    <hr />
+
+    <!-- address section -->
+
+    <!-- <div class="flex gap-3 justify-center items-center bg-[#FBEAEB] p-3"> -->
+    <!-- location icon -->
+    <!-- <img src="./assets/images/location (3).png" alt="location" width="30" height="30" > 
           <span>Deliver to Hema - Chennai 600049</span>
-          </div>
-      
-      <!-- product showcase section -->
-      <div class=" bg-[rgb(59,130,246)]">
-          <ul class="grid grid-cols-3 gap-1 text-lg" id="product_list">
+          </div> -->
 
-            <!-- <li class="bg-red-300 p-4 m-5 text-center">
+    <!-- product showcase section -->
+    <div class="bg-[#1995AD]">
+      <ul class="grid grid-cols-3 gap-1 text-lg" id="product_list">
+        <!-- <li class="bg-red-300 p-4 m-5 text-center">
                   <img src="./assets/images/study_table.jpg" alt="study table" class="w-64 rounded-lg mx-auto p-2"> 
                   <h3 class="font-medium text-2xl">Study table</h3><br>
                   <p>original ortho 3-Layered medium firm 6-inch memory  foam mattress with bamboo cover(single).</p> 
@@ -53,13 +94,14 @@
                   <button type="submit" class="text-white rounded-lg p-1 bg-blue-400 w-full mt-4">Add to cart</button>
               
             </li> -->
+      </ul>
+    </div>
 
-        </ul>
-      </div>
+    <!-- footer section -->
+    <div class="bg-[#FBEAEB] p-2 text-center font-semibold">
+      All rights reserved - copyrights@2024
+    </div>
 
-      <!-- footer section -->
-      <div class="bg-orange-400 p-2 text-center font-semibold">All rights reserved - copyrights@2024</div>
-      
     <script type="module" src="./assets/js/main.js"></script>
   </body>
 </html>

@@ -5,39 +5,44 @@
     "description" : "Engineered Wooden Study Table | Safe & Child-Friendly",
     "star_ratings": 3.8,
     "Price": "₹ 4,999",
-    "delivery": "FREE delivery as soon as Wed, 24 Jan, 7 am - 3 pm"
+    "delivery": "FREE delivery as soon as Wed, 24 Jan, 7 am - 3 pm",
+    "button" : "Order"
 },
 {
     "imgUrl": "./assets/images/bed.jpg",
     "title": "Mobel Bed",
-    "description" : "Patio Bed Set Rosa Bedroom Package",
+    "description" : "Patio Bed Set | Rosa Bedroom Package",
     "star_ratings": 3.8,
     "Price": "₹ 15,6000",
-    "delivery": "FREE delivery Tomorrow, 9 Jan"
+    "delivery": "FREE delivery Tomorrow, 9 Jan",
+    "button" : "Order"
 },
 { 
     "imgUrl": "./assets/images/cafe.jpg",    
     "title": "Furniture Cafe",
-    "description" : "Set top Box Stand shelves for Home Wall Mount Stylish",
+    "description" : "Set top Box Stand | shelves for  Home Wall Mount Stylish",
     "star_ratings": 4.1,
     "Price": "₹ 10,000",
-    "delivery": "FREE delivery Wed, 10 Jan"
+    "delivery": "FREE delivery Wed, 10 Jan",
+    "button" : "Order"
 },
 {
     "imgUrl": "./assets/images/anamino.jpg",
     "title": "Single Leg Table",
-    "description" : "Shoppee Accent for the Office, Bedroom, Balcony and Living Area, Indoor or Outdoor",
+    "description" : "Shoppee Accent for the Office | Balcony ",
     "star_ratings": 5.3,
     "Price": "₹ 4,599",
-    "delivery": "FREE delivery Tue, 16 Jan"
+    "delivery": "FREE delivery Tue, 16 Jan",
+    "button" : "Order"
 },
 {
         "imgUrl": "./assets/images/sofa.jpg",
         "title": "Sofa set",
-        "description" : "High defined U shaped luxurious fabric sofa set",
+        "description" : "High defined 'U' shaped | luxurious fabric sofa set",
         "star_ratings": 9.8,
         "Price": "₹ 40,000",
-        "delivery": "FREE delivery Wed, 18 Jan"
+        "delivery": "FREE delivery Wed, 18 Jan",
+        "button" : "Order"
     },
     {
         "imgUrl": "./assets/images/coffee.jpg",
@@ -45,6 +50,7 @@
         "description" : "Vintage low coffee table with tray | Grand Vintage",
         "star_ratings": 8.8,
         "Price": "₹ 4,000",
-        "delivery": "FREE delivery Tomorrow, 20 Jan"
+        "delivery": "FREE delivery Tomorrow, 20 Jan",
+        "button" : "Order"
     }
 ]
