@@ -8,9 +8,9 @@ products.forEach((product) =>{
 });
 
 function elementStyling(product){
-// Create a new element
+// Create a new element #FBEAEB
 let liEl = document.createElement('li');
-liEl.style.backgroundColor = '#FBEAEB';
+liEl.style.backgroundColor = '#CFEFBA';
 liEl.style.margin = '20px';
 liEl.style.textAlign = 'center';
 liEl.style.borderRadius = "5px";
@@ -20,8 +20,8 @@ const h3El = document.createElement('h3');
 h3El.style.fontWeight = '600';
 h3El.style.fontSize = '30px';
 h3El.style.padding = "10px";
-h3El.style.color = '#1995AD';
-
+h3El.style.color = '#088F8F';
+// #1995AD
 
 const imgEl = document.createElement('img');
 imgEl.style.width = '300px';
@@ -68,9 +68,10 @@ buttonEl.style.color = 'white';
 buttonEl.style.borderRadius = '4px';
 buttonEl.style.width = '100px';
 buttonEl.style.padding = '5px';
-buttonEl.style.background = '#1995AD';
+buttonEl.style.background = '#088F8F';
 buttonEl.style.margin = '10px';
 buttonEl.innerHTML = product.button;
+// #1995AD
 
 buttonEl.addEventListener("mouseover", function() {
     this.style.transform = "scale(1.1)";
